@@ -11,7 +11,7 @@ const projects = [
     gradient: 'from-violet-500 to-indigo-600',
   },
   {
-    title: 'Sage Clinic Management System',
+    title: 'Clinic-Lab',
     description:
       'A comprehensive healthcare platform designed to streamline clinic operations, patient appointments, and medical record management with a modern, user-friendly interface.',
     technologies: ['React', 'Vite', 'Tailwind CSS', 'Framer Motion'],
