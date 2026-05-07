@@ -11,13 +11,22 @@ const projects = [
     gradient: 'from-violet-500 to-indigo-600',
   },
   {
-    title: 'Clinic Lab',
+    title: 'Sage Clinic Management System',
     description:
       'A comprehensive healthcare platform designed to streamline clinic operations, patient appointments, and medical record management with a modern, user-friendly interface.',
     technologies: ['React', 'Vite', 'Tailwind CSS', 'Framer Motion'],
     githubUrl: 'https://github.com/honestyrk/clinic-web',
     liveUrl: 'https://clinic-web-sage.vercel.app/',
     gradient: 'from-blue-500 to-cyan-600',
+  },
+  {
+    title: 'EduCentre | Educational Platform',
+    description:
+      'A modern educational platform designed for academic excellence. Features include course listings, admission management, and a responsive design tailored for educational institutions.',
+    technologies: ['React', 'Vite', 'Tailwind CSS', 'Lucide React'],
+    githubUrl: 'https://github.com/honestyrk/edu-centre',
+    liveUrl: 'https://edu-centre-rose.vercel.app/',
+    gradient: 'from-emerald-500 to-teal-600',
   },
 ];
 
