@@ -20,7 +20,7 @@ const projects = [
     gradient: 'from-blue-500 to-cyan-600',
   },
   {
-    title: 'EduCentre | Educational Platform',
+    title: 'Edu-Centre',
     description:
       'A modern educational platform designed for academic excellence. Features include course listings, admission management, and a responsive design tailored for educational institutions.',
     technologies: ['React', 'Vite', 'Tailwind CSS', 'Lucide React'],
