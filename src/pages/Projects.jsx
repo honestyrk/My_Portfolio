@@ -28,6 +28,15 @@ const projects = [
     liveUrl: 'https://edu-centre-rose.vercel.app/',
     gradient: 'from-emerald-500 to-teal-600',
   },
+  {
+    title: 'Gym-Web | Fitness Platform',
+    description:
+      'A dynamic fitness and gym management website featuring modern UI/UX, workout categories, and membership information. Built for high performance and responsiveness.',
+    technologies: ['React', 'Vite', 'Tailwind CSS', 'Framer Motion'],
+    githubUrl: 'https://github.com/honestyrk/gym-web',
+    liveUrl: 'https://gym-web-kohl-one.vercel.app/',
+    gradient: 'from-orange-500 to-red-600',
+  },
 ];
 
 export default function Projects() {
