@@ -11,7 +11,7 @@ const projects = [
     gradient: 'from-violet-500 to-indigo-600',
   },
   {
-    title: 'Clinic-Lab',
+    title: 'Clinic-Web',
     description:
       'A comprehensive healthcare platform designed to streamline clinic operations, patient appointments, and medical record management with a modern, user-friendly interface.',
     technologies: ['React', 'Vite', 'Tailwind CSS', 'Framer Motion'],
@@ -29,11 +29,11 @@ const projects = [
     gradient: 'from-emerald-500 to-teal-600',
   },
   {
-    title: 'Gym-Web | Fitness Platform',
+    title: 'Gym-Web',
     description:
       'A dynamic fitness and gym management website featuring modern UI/UX, workout categories, and membership information. Built for high performance and responsiveness.',
     technologies: ['React', 'Vite', 'Tailwind CSS', 'Framer Motion'],
-    githubUrl: 'https://github.com/honestyrk/gym-web',
+    githubUrl: 'https://github.com/honestyrk/Gym_Web',
     liveUrl: 'https://gym-web-kohl-one.vercel.app/',
     gradient: 'from-orange-500 to-red-600',
   },
