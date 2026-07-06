@@ -56,7 +56,7 @@ export default function About() {
               </h2>
             </div>
             <p className="text-gray-600 dark:text-gray-400 leading-relaxed">
-              Hi! I'm <span className="font-semibold text-gray-900 dark:text-white">Ramkumar K</span>, a dedicated Full Stack Developer with a strong passion for crafting clean, performant, and user-friendly web applications. I thrive on turning complex ideas into elegant digital solutions.
+              Hi! I'm <span className="font-semibold text-gray-900 dark:text-white">Preethi K</span>, a dedicated Full Stack Developer with a strong passion for crafting clean, performant, and user-friendly web applications. I thrive on turning complex ideas into elegant digital solutions.
             </p>
             <p className="text-gray-600 dark:text-gray-400 leading-relaxed">
               With expertise spanning both front-end and back-end technologies, I bring a holistic approach to every project. I love collaborating with teams, learning new technologies, and pushing the boundaries of what's possible on the web.
